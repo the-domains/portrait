@@ -2,14 +2,28 @@
     <channel>
         <title><![CDATA[Portrait]]></title>
         <description><![CDATA[Portrait]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/portrait/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Dec 2015 20:03:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 18 Dec 2015 20:03:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/portrait/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Touched]]></title>
+            <description><![CDATA[<article><h1>Touched</h1><p>After 10 years these two friends meet each other again</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b482d6e0a9357f9bbc69101f3f290aba574b0d02.jpg"></article>]]></description>
+            <link>https://thegrid.ai/portrait/0c4847d3-6090-411a-9083-85d7f098f6b1/index.html</link>
+            <guid isPermaLink="false">0c4847d3-6090-411a-9083-85d7f098f6b1</guid>
+            <pubDate>Fri, 18 Dec 2015 20:03:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Proud]]></title>
+            <description><![CDATA[<article><h1>Proud</h1><p>Proud father kissing his little girl</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/61e04043-ecaf-45a2-8d90-a2c3b06aff9e.jpg"></article>]]></description>
+            <link>https://thegrid.ai/portrait/d6d0c49e-517a-4562-8606-a853013fa08d/index.html</link>
+            <guid isPermaLink="false">d6d0c49e-517a-4562-8606-a853013fa08d</guid>
+            <pubDate>Fri, 18 Dec 2015 20:03:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Portrait 1]]></title>
             <description><![CDATA[<article><h1>Portrait 1</h1><p>Happy Family</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7a729f1610b0aab02d9db2ea4917e8d009133e53.jpg"></article>]]></description>
-            <link>undefinedportrait-1/index.html</link>
+            <link>https://thegrid.ai/portrait/portrait-1/index.html</link>
             <guid isPermaLink="false">6ff3fd15-63b0-45da-9403-4c35a7e35d9e</guid>
             <pubDate>Fri, 18 Dec 2015 20:02:49 GMT</pubDate>
         </item>
